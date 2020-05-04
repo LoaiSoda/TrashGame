@@ -1,4 +1,4 @@
-#Trash Game
+# Trash Game
 -----------------------------------------------------------------------------------------------------------------------------
 Welcome to our school project "TrashGame"
 This game includes 2 Gamemodes.
@@ -6,7 +6,7 @@ Gamemode1: You pretty much have to solve quizes and try to get the highest score
 Gamemode2: It's just based on luck. You have 4 rooms to enter and in one of them there's Dr Dyson that will hunt you down
 -----------------------------------------------------------------------------------------------------------------------------
 
-PROJECT TITLE: 
+< PROJECT TITLE > 
 TrashGame
 
 PURPOSE OF PROJECT: 
