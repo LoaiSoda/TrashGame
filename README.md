@@ -1,2 +1,2 @@
 # TrashGame
-School Small Project
+Small School Project
